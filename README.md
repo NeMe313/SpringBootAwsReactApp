@@ -6,3 +6,4 @@ In this project you can upload and download files (images) from a react front en
 
 ##Example 
 
+![Screenshot_1](https://user-images.githubusercontent.com/74492892/156343620-d5c651ae-2c55-49bf-a3f9-a465b86f2441.png)
