@@ -6,4 +6,3 @@ In this project you can upload and download files (images) from a react front en
 
 ##Example 
 
-![](../Screenshot_1.png)
